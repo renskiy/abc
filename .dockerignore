@@ -1,0 +1,9 @@
+*
+!abc/
+!settings.py
+!swagger.yaml
+!urls.py
+!manage.py
+!wsgi.py
+!uwsgi.ini
+!requirements.docker.txt
