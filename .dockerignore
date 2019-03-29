@@ -1,7 +1,6 @@
 *
-!abc/
-!settings.py
-!swagger.yaml
+!api/
+!settings/
 !urls.py
 !manage.py
 !wsgi.py
